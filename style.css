@@ -59,7 +59,7 @@ body {
   height: 200px;
   border-radius: 50%;
   display: block;
-  margin-left: 50px;
+  margin-left: auto;
   margin-right: auto;
 }
 
