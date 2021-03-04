@@ -37,7 +37,6 @@ footer li {
 }
 
 footer li i {
-  margin-right: 50px;
   color: #606060;
 }
 
@@ -63,7 +62,7 @@ a {
   color:black;
 }
 
-a:hover {
+footer a:hover {
   text-decoration: 5px underline #FB6A4A;
 }
 
@@ -76,3 +75,19 @@ a:hover {
   margin-left: auto;
   margin-right: auto;
 }
+
+button {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  font-family: inherit;
+  font-size:18px;
+  padding: 10px;
+  border: none;
+  background-color: darkgray;
+  color: white;
+}
+
+button:hover {
+  background-color: #FB6A4A;
+} 
